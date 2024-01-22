@@ -25,6 +25,7 @@
 header {
     width: 100%;
     position: fixed;
+    z-index: 1;
     padding: 20px 0;
     background: url(../images/background.png), lightgray 0% 0% / 100px 100px repeat;
     background-color: #145E76;
