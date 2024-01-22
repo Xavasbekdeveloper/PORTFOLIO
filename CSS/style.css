@@ -293,6 +293,7 @@ header {
 }
 
 .services__card {
+    cursor: pointer;
     max-width: 273px;
     padding: 30px 26px;
     box-shadow: 0px 41.778px 33.422px 0px rgba(0, 0, 0, 0.05);
